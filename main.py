@@ -1,4 +1,4 @@
-from genetic_algoprithm import GeneticAlgorithm
+from genetic_algorithm import GeneticAlgorithm
 import pandas as pd
 
 dataset = pd.read_csv(r"C:\Users\USUARIO\Documents\Algoritmos Geneticos\database\P08-cwp.csv")
